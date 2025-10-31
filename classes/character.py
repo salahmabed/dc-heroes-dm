@@ -14,3 +14,4 @@ class Character:
         self.cur_initiative = max_initiative
         self.max_hero_points = max_hero_points
         self.cur_hero_points = max_hero_points
+
